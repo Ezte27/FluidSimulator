@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Sebastian Lague for the original inspiration and codebase on his YouTube channel(https://www.youtube.com/@SebastianLague).
+- Sebastian Lague for the original inspiration and codebase on his [YouTube channel](https://www.youtube.com/@SebastianLague).
 - The open-source community for valuable tools and libraries.
 
 Enjoy exploring the fascinating world of fluid dynamics with FluidSimulator!
