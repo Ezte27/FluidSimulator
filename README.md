@@ -18,7 +18,7 @@ Follow these steps to get the FluidSimulator up and running:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/FluidSimulator.git
+    git clone https://github.com/Ezte27/FluidSimulator.git
     ```
 
 2. Install the required dependencies:
