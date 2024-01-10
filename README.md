@@ -2,6 +2,8 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-FluidSimulator-brightgreen)
 
+#### (Note: This project is incomplete. Some features are not working.)
+
 This repository hosts a Python-based fluid simulator with pygame rendering, inspired by Sebastian Lague's C# implementation as seen on his YouTube channel. This fluid simulator offers an interactive and visually captivating simulation of fluid dynamics, providing an engaging way to explore the behavior of fluids in a 2D environment.
 
 ## Features
